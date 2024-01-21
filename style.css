@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+img {
+    border: 5px solid white;
+    margin-top: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 0%;
+    size: 2em;
+}
+
+h1 {
+    color: white;
+    margin-left: 26.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xxx-large;
+}
+
+p {
+    font-family: fantasy;
+    color: white;
+    font-size: x-large;
+    font-stretch: normal;
+    margin-left: 31rem;
+}
